@@ -1,0 +1,28 @@
+name: Max Karrer
+favicon: null
+layout_spectrum: 0.09003385156393051
+typography_spectrum: 0.2870884311851114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.05657311831600964
+  lightness: 0.9338704533874989
+  saturation: 0.6629546866752207
+  rhythmicContrast: 0.2203296956140548
+purpose: []
